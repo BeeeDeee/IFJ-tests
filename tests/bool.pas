@@ -1,11 +1,11 @@
-var	b1 : boolean;
-	b2 : boolean;
+var b1 : boolean;
+    b2 : boolean;
 
 
 begin
-	b1 := tRuE;
-	b2 := FaLsE;
+    b1 := tRuE;
+    b2 := FaLsE;
 
-	write(b1, '		', b2)
+    write(b1,'		', b2)
 
 end.
